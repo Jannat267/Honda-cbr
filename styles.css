@@ -1,0 +1,33 @@
+body {
+    font-family: 'poppins', sans-serif;
+}
+
+section {
+    overflow-x: hidden;
+}
+
+.topper-bg {
+    background-color: #264653;
+}
+
+.button {
+    background-color: #E76F51;
+}
+
+.orange-text {
+    color: #E76F51;
+}
+
+.fa-star {
+    color: #E77C40;
+}
+
+.card-text-color {
+    color: #6C6C6C;
+}
+
+.gray-bike {
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
